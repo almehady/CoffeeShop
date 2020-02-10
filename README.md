@@ -8,3 +8,4 @@
 3. Auth:  get the auth header, check permissions and verify the Json Web Token
 4. Use Postman to create a collection of test cases for error handlers. [saved under /backend]
 5. Tested with Ionic frontend
+6. JWT auth tokens text file saved root folder as "jwt-auth-tokens"
