@@ -27,7 +27,6 @@
     "@ionic/angular": "^4.11.10",
     "@ionic/cli": "^6.0.1",
     "core-js": "^2.6.11",
-    "ionic": "^5.4.16",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
     "natives": "^1.1.6",

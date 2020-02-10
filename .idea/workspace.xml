@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c236d26-37fd-48b1-a8d5-4970b188a9f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/coffee_shop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coffee_shop.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/auth/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/auth/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/database/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/database/database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +47,19 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="358" y="130" key="SettingsEditor" timestamp="1580807125573">
-      <screen x="0" y="23" width="1440" height="829" />
-    </state>
-    <state x="358" y="130" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1580807125573" />
-    <state x="397" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1581251368315">
+    <state x="429" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581318400594">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1581251368315" />
+    <state x="429" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1581318400594" />
+    <state x="358" y="128" key="SettingsEditor" timestamp="1581268543301">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="358" y="128" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1581268543301" />
+    <state x="358" y="130" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1580807125573" />
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1581316988755">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1581316988755" />
     <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1580987399564" />
     <state x="385" y="174" key="search.everywhere.popup" timestamp="1581230098796">
       <screen x="0" y="23" width="1440" height="827" />
