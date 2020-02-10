@@ -8,7 +8,7 @@
 
 #### Installing Node and NPM
 
-This project depends on Nodejs and Node Package Manager (NPM). Before continuing, you must download and install Node (the download includes NPM) from [https://nodejs.com/en/download](https://nodejs.org/en/download/).
+This project depends on Nodejs and Node Package Manager (NPM). Before continuing, you must download and install Node (the downd includes NPM) from [https://nodejs.com/en/download](https://nodejs.org/en/download/).
 
 #### Installing Ionic Cli
 
