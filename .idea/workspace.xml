@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c236d26-37fd-48b1-a8d5-4970b188a9f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,10 +51,10 @@
     </state>
     <state x="358" y="128" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1581268543301" />
     <state x="358" y="130" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1580807125573" />
-    <state x="397" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1581316988755">
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1581422494200">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1581316988755" />
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1581422494200" />
     <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1580987399564" />
     <state x="385" y="174" key="search.everywhere.popup" timestamp="1581230098796">
       <screen x="0" y="23" width="1440" height="827" />
